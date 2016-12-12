@@ -1,0 +1,23 @@
+{
+  "name": "promise-tutorial-with-bluebird",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2-whatArePromises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANDigital/promise-tutorial-with-bluebird.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANDigital/promise-tutorial-with-bluebird/issues"
+  },
+  "homepage": "https://github.com/ANDigital/promise-tutorial-with-bluebird#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "colors": "^1.1.2"
+  }
+}
