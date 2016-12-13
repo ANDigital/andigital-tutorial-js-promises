@@ -14,6 +14,10 @@
 	- Focus on the concepts, not on the details
 		- Don't worry about syntax
 		- Worry about understanding the core concept
+	- Pull the repo and run the code
 
 ## What you should get our of this?
 	- When you next get to this type of problem, remember these solutions and have a go at implementing them. 
+
+## How biased is this?
+	- Probably very ...
